@@ -21,7 +21,7 @@
     /* end Navbar */
 
       .hero {
-      background: url('/image/Hero\ Section\ image.jpg') center center/cover no-repeat;
+      background: url('./image/Hero\ Section\ image.jpg') center center/cover no-repeat;
       height: 80vh;
       display: flex;
       align-items: center;
